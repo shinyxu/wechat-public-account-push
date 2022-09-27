@@ -96,15 +96,17 @@ export const USER_CONFIG = {
     },
     {
       name: "xxm",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
+      id: "o9F_m6OzCM2NR9ctfnSnKZCZxoLo",
+      useTemplateId: "1DMpc5TPvg86UeYrxVdlOiCqLfzmPoZEjNIK6IcsXyA",
+      province: "广东",
+      city: "广州",
+      horoscopeDate: '10-27',
       horoscopeDateType: '今日',
       openUrl: "https://www.baidu.com",
-      festivals: [],
-      customizedDateList: []
+      festivals: [{"type": "*生日", "name": "美女", "year": "1994", "date": "10-27"}],
+      customizedDateList: [ {"keyword": "love_day", date: "2022-01-01"}，
+                          {"keyword": "marry_day", date: "2022-09-10"}
+                          ]
     },
     {
       name: "老婆2",
