@@ -100,7 +100,7 @@ export const USER_CONFIG = {
       useTemplateId: "1DMpc5TPvg86UeYrxVdlOiCqLfzmPoZEjNIK6IcsXyA",
       province: "广东",
       city: "广州",
-      horoscopeDate: '10-27',
+      horoscopeDate: '11-29',
       horoscopeDateType: '今日',
       openUrl: "https://www.baidu.com",
       festivals: [{"type": "*生日", "name": "美女", "year": "1994", "date": "10-27"}],
@@ -109,28 +109,43 @@ export const USER_CONFIG = {
                           ]
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "fl",
+      id: "o9F_m6F_keQvL-Dq0QFekQmWsLGM",
+      useTemplateId: "1DMpc5TPvg86UeYrxVdlOiCqLfzmPoZEjNIK6IcsXyA",
+      province: "广东",
+      city: "广州",
+      horoscopeDate: '07-24',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com",
+      festivals: [{"type": "*生日", "name": "帅哥", "year": "1994", "date": "06-16"}],
+      customizedDateList: [{"keyword": "love_day", date: "2022-01-01"},
+                          {"keyword": "marry_day", date: "2022-09-10"}]
     },
     {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "qc",
+      id: "o9F_m6G_kdBhPZZiXiyHiJJ1zD0k",
+      useTemplateId: "1DMpc5TPvg86UeYrxVdlOiCqLfzmPoZEjNIK6IcsXyA",
+      province: "广东",
+      city: "广州",
+      horoscopeDate: '05-06',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com",
+      festivals: [{"type": "生日", "name": "帅哥", "year": "1993", "date": "05-06"}],
+      customizedDateList: [{"keyword": "love_day", date: "2022-01-01"}
+                          ]
+    },
+     {
+      name: "wll",
+      id: "o9F_m6F_qEVCzqtMwoqJIPX59d0M",
+      useTemplateId: "1DMpc5TPvg86UeYrxVdlOiCqLfzmPoZEjNIK6IcsXyA",
+      province: "广东",
+      city: "广州",
       horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com",
+      festivals: [{"type": "生日", "name": "美女", "year": "1997", "date": "05-06"}],
+      customizedDateList: [{"keyword": "love_day", date: "2022-01-01"}
+                          ]
     },
     // 你可以不断按格式往下增加
     // ...
