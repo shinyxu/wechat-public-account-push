@@ -82,7 +82,7 @@ export const USER_CONFIG = {
       //  {"type": "节日", "name": "国庆", "year": "2022", "date": "10-01"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "帅哥", "year": "1993", "date": "03-24"},
-        {"type": "节日", "name": "", "year": "", "": ""},
+       // {"type": "节日", "name": "", "year": "", "": ""},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
@@ -95,7 +95,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
+      name: "xxm",
       id: "",
       useTemplateId: "",
       province: "",
