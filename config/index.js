@@ -140,7 +140,7 @@ export const USER_CONFIG = {
       useTemplateId: "1DMpc5TPvg86UeYrxVdlOiCqLfzmPoZEjNIK6IcsXyA",
       province: "广东",
       city: "广州",
-      horoscopeDate: '',
+      horoscopeDate: '06-08',
       horoscopeDateType: '今日',
       openUrl: "https://www.baidu.com",
       festivals: [{"type": "*生日", "name": "美女", "year": "1997", "date": "05-04"}],
