@@ -103,7 +103,7 @@ export const USER_CONFIG = {
       horoscopeDate: '03-24',
       horoscopeDateType: '今日',
       openUrl: "https://www.baidu.com",
-      festivals: ["type": "生日", "name": "帅哥", "year": "1993", "date": "01-01";"type": "节日", "name": "国庆节", "year": "2022", "date": "10-01"],
+      festivals: ["type": "生日", "name": "帅哥", "year": "1993", "date": "01-01"],
       customizedDateList: ["keyword": "love_day", date: "2022-01-01"]
     },
     {
