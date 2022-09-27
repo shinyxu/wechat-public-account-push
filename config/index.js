@@ -30,7 +30,7 @@ export const USER_CONFIG = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
@@ -41,7 +41,7 @@ export const USER_CONFIG = {
     poetry: false,
     
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -60,9 +60,9 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "帅哥",
+      name: "",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o9F_m6InLYJOj2PaGMAmt88O3kYg",
+      id: "",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "xo0U7JhjnxYDRs4bVe_MO_vRLqJeWsKL-Zj8zTwr38g",
       // 所在省份
@@ -95,16 +95,16 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "帅哥啊",
+      id: "o9F_m6InLYJOj2PaGMAmt88O3kYg",
+      useTemplateId: "sqmaNu7nl8vxpln9IIeOPBiQAo0AZSLyRgxPp9_PS0o",
+      province: "广东",
+      city: "广州",
+      horoscopeDate: '03-24',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com",
+      festivals: ["type": "生日", "name": "帅哥", "year": "1993", "date": "01-01";"type": "节日", "name": "国庆节", "year": "2022", "date": "10-01"],
+      customizedDateList: ["keyword": "love_day", date: "2022-01-01"]
     },
     {
       name: "老婆2",
